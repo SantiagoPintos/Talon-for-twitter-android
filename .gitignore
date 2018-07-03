@@ -13,5 +13,4 @@ local.properties
 **/gen
 *~
 .DS_Store
-app/src/main/java/secrets.properties
-app/src/main/java/com/klinker/android/twitter_l/APIKeys.java
+secrets.properties
