@@ -194,9 +194,9 @@ public class MaterialLogin extends AppIntro2 {
             public void run() {
                 Twitter twitter = Utils.getTwitter(MaterialLogin.this, null);
 
-                try { twitter.createFriendship("TalonAndroid"); } catch (Exception e) { }
-                try { twitter.createFriendship("lukeklinker"); } catch (Exception e) { }
-                try { twitter.createFriendship("KlinkerApps"); } catch (Exception e) { }
+               // try { twitter.createFriendship("TalonAndroid"); } catch (Exception e) { }
+               // try { twitter.createFriendship("lukeklinker"); } catch (Exception e) { }
+               // try { twitter.createFriendship("KlinkerApps"); } catch (Exception e) { }
             }
         }).start();
     }

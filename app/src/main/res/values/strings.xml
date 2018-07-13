@@ -137,7 +137,7 @@
     <string name="no_network">You aren\'t connected to the internet</string>
     <string name="no_thanks">Not now</string>
     <string name="follow_me">Follow!</string>
-    <string name="follow_me_description">Use the check button to auto-follow support accounts, or press the back button to skip this.</string>
+    <string name="follow_me_description">:).</string>
 
     <!-- Compose New Activity -->
     <string name="compose_activity">New Tweet</string>

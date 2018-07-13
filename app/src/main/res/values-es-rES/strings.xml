@@ -119,7 +119,7 @@
     <string name="no_network">No estás conectado a Internet</string>
     <string name="no_thanks">Ahora no</string>
     <string name="follow_me">¡Seguir!</string>
-    <string name="follow_me_description">¡Sigue a @TalonAndroid y @lukeklinker para obtener novedades y soporte!</string>
+    <string name="follow_me_description">:)</string>
     <!-- Compose New Activity -->
     <string name="compose_activity">Nuevo tweet</string>
     <string name="compose_tweet_hint">Escribe el tweet aquí...</string>
@@ -592,4 +592,8 @@
     <string name="menu_show_top_tweets">Filtrar \"Tweets Destacados\"</string>
     <string name="open_to_web">Abrir enlaces web en el tweet</string>
     <string name="open_to_web_summary">Si el tweet contiene un enlace web, este se abrirá directamente en lugar de abrir el tweet.</string>
+
+    <string name="emoji_style">Estilo de Emojis</string>
+    <string name="emoji_style_default">Emojis del sistema</string>
+    <string name="emoji_style_android_o">Android Oreo emojis</string>
 </resources>

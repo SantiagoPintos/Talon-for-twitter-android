@@ -22,13 +22,13 @@ import java.util.*
 class TweetStylePreviewPreference : Preference {
 
     companion object {
-        private val NAME = "Luke Klinker"
-        private val SCREEN_NAME = "@lukeklinker"
-        private val RETWEETER = "KlinkerApps"
-        private val TWEET = "@TalonAndroid and Pulse SMS are great!"
+        private val NAME = "Ricardo Fort"
+        private val SCREEN_NAME = "@ricarfort"
+        private val RETWEETER = "santiagoopintos"
+        private val TWEET = "Miameeeeeeee!"
 
-        private val IMAGE_URL = "https://pbs.twimg.com/media/DKK-EnFUMAYoxeZ.jpg:large"
-        private val PROFILE_PIC_URL = "https://pbs.twimg.com/profile_images/720974705042137088/q1foR7W5_400x400.jpg"
+        private val IMAGE_URL = "https://pbs.twimg.com/media/DQU9ba9W0AEphLG.jpg:large"
+        private val PROFILE_PIC_URL = "https://pbs.twimg.com/profile_images/378800000633037068/acf9c28b3b79a189b355ebe4c303bf21_400x400.jpeg"
     }
 
     constructor(context: Context, attrs: AttributeSet, defStyleAttr: Int) : super(context, attrs, defStyleAttr)
