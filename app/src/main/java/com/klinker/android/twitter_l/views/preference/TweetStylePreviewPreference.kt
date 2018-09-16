@@ -22,12 +22,12 @@ import java.util.*
 class TweetStylePreviewPreference : Preference {
 
     companion object {
-        private val NAME = "Ricardo Fort"
-        private val SCREEN_NAME = "@ricarfort"
+        private val NAME = "Marcianito 100% real no fake"
+        private val SCREEN_NAME = "@Marcianito"
         private val RETWEETER = "santiagoopintos"
-        private val TWEET = "Miameeeeeeee!"
+        private val TWEET = "Sabor!"
 
-        private val IMAGE_URL = "https://pbs.twimg.com/media/DQU9ba9W0AEphLG.jpg:large"
+        private val IMAGE_URL = "https://pbs.twimg.com/media/DmcqOXHU0AA8N6u.jpg:large"
         private val PROFILE_PIC_URL = "https://pbs.twimg.com/profile_images/378800000633037068/acf9c28b3b79a189b355ebe4c303bf21_400x400.jpeg"
     }
 
